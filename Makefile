@@ -3,7 +3,7 @@
 
 PACKAGE=pdfminer
 
-PYTHON=python -B
+PYTHON=python3 -B
 TWINE=twine
 RM=rm -f
 CP=cp -f
